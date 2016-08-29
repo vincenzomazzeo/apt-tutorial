@@ -400,10 +400,10 @@ The _APT_ is a powerful tool to automate some development tasks. It is integrate
 Released and distributed under the [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 ## References
-[Apache Maven][] 
-[Code Model][]
-[Oracle APT][]
-[Reflections][]
+[Apache Maven][]  
+[Code Model][]  
+[Oracle APT][]  
+[Reflections][]  
 
 [apache maven]: https://maven.apache.org/
 [code model]: https://codemodel.java.net/
