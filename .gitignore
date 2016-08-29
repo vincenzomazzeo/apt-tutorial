@@ -10,3 +10,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/apt-code-generator/.project
+/apt-code-generator/.settings
+/apt-code-generator/target
+/apt-code-generator/.classpath
+/apt-example/.project
+/apt-example/.settings
+/apt-example/target
+/apt-example/.classpath
+/apt-example/.factorypath
